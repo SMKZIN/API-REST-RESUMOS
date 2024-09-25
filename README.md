@@ -31,8 +31,4 @@ O Resume AI é uma API backend desenvolvida para auxiliar alunos na organizaçã
 ![boraEstudar](https://github.com/user-attachments/assets/a4806c39-0a73-4f7c-aab2-d2b352fdab1e)
 
 
-- Faça commit das suas alterações (git commit -m 'Adicionei uma nova feature').
-- Faça push para a branch (git push origin feature/nome-da-feature).
-- Abra um Pull Request.
-
 
