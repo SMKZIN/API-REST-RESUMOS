@@ -1,6 +1,7 @@
 # Resume AI 📚💡
 
-![music](https://github.com/user-attachments/assets/d8720c5a-eaf0-4280-9457-c595cd86aa6e)
+![bibli](https://github.com/user-attachments/assets/1e7ef91c-5aeb-4a46-8743-e3cef8c95939)
+
 
 ## Descrição do Projeto:
 
@@ -27,13 +28,9 @@ O Resume AI é uma API backend desenvolvida para auxiliar alunos na organizaçã
 - **NPM**: Gerenciamento de pacotes.
 - **Git**: Controle de versão.
 
+![boraEstudar](https://github.com/user-attachments/assets/a4806c39-0a73-4f7c-aab2-d2b352fdab1e)
 
-   ![dance](https://github.com/user-attachments/assets/0be3ca18-9ef1-4f54-ac17-41a6dbcf66bf)
 
-## Como Contribuir
-
-- Faça um fork do repositório.
-- Crie uma branch para sua feature (git checkout -b feature/nome-da-feature).
 - Faça commit das suas alterações (git commit -m 'Adicionei uma nova feature').
 - Faça push para a branch (git push origin feature/nome-da-feature).
 - Abra um Pull Request.
